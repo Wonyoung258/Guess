@@ -1,0 +1,14 @@
+1) I learned this week about how binary trees can be used to
+make certain tasks simpler. Also, I learned how x = change(x) pattern 
+really simplifies code and makes it less redundant
+
+2) I enjoyed this week the process of walking through the tree
+and following along. Also, I enjoyed creating 20 questions because
+it is a game I used to play.
+
+3) I found frustrating at first the on implementing a tree
+because it was almost like recursion but yet it required a 
+little bit of different thinking perspective
+
+4) I found particularly helpful this week the videos Kevin 
+posted for the problems during lecture.
